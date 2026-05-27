@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whole-world-stops-moving/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Whole World Stops Moving](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whole-world-stops-moving/) |
+| **Get License** | [Official Music Licensing for Whole World Stops Moving](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whole-world-stops-moving/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> It’s just a shadow in the fading light
+> A sudden wonder in the cozy night
+> You lay your fingers in the palm of mine
+> And the whole world stops moving in time
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
