@@ -1,0 +1,2 @@
+Stops moving when I pull you near
+[Echo] (Starts to disappear)

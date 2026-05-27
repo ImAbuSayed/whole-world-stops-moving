@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Whole World Stops Moving
+
+This log tracks the cryptographic history and versioning for the song **Whole World Stops Moving** (whole-world-stops-moving).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T16:26:18.173989 | `v1` | `ce2808d77e74ba1aacfd7aa0f77d3808a87a2f413fe3cde3a7170a85c5be0839` | `e6cfa4d3d802cedaa551b88a2b4d5d97d94a1e84a99e5096f035cc2a373f728b` | `2026-05-27_whole-world-stops-moving-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

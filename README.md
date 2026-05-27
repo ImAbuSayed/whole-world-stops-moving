@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whole-world-stops-moving/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Whole World Stops Moving](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whole-world-stops-moving/) |
+| **Get License** | [Commercial Licensing for Whole World Stops Moving](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whole-world-stops-moving/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ce2808d77e74ba1aacfd7aa0f77d3808a87a2f413fe3cde3a7170a85c5be0839` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
